@@ -1,0 +1,12 @@
+.nav-link {
+    font-weight: 500;
+}
+
+.navbar-brand{
+    font-weight: bold;
+}
+
+.bg-hero{
+    background: url('../img/bg4.jpg');
+    background-size: cover;
+}
